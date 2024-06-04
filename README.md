@@ -1,4 +1,4 @@
 # Pyrates
 
 
-Codes to share
+Codes to share from PyRATE Workshop
